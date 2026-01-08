@@ -1,0 +1,41 @@
+# LeaseFlow — Generative Engine Optimization Map
+
+> A תוכנה פיננסית / SaaS business.
+
+---
+
+## Pages
+
+## Legal & Policy
+
+### Privacy Policy
+https://leaseflow-71a122ba.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://leaseflow-71a122ba.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://leaseflow-71a122ba.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About LeaseFlow
+LeaseFlow is a business in the תוכנה פיננסית / SaaS industry.
+
+## Target Audience
+רואי חשבון ויועצים פיננסיים
+
+## Industry
+תוכנה פיננסית / SaaS
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://leaseflow-71a122ba.zappy5.app/sitemap.xml
+- **Robots.txt**: https://leaseflow-71a122ba.zappy5.app/robots.txt
